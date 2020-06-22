@@ -1,0 +1,13 @@
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.AssemblyInfoInputs.cache
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.AssemblyInfo.cs
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.exe
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.deps.json
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.runtimeconfig.json
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.runtimeconfig.dev.json
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.dll
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\bin\Debug\netcoreapp3.1\Ex2_LletresRepetides.pdb
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.dll
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.pdb
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.genruntimeconfig.cache
+C:\Users\erica\source\repos\Ex2_LletresRepetides\Ex2_LletresRepetides\obj\Debug\netcoreapp3.1\Ex2_LletresRepetides.csprojAssemblyReference.cache
